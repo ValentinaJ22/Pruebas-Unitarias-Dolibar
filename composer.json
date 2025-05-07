@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "classmap": [
+            "htdocs/core/db/"
+        ]
+    },
+    "require-dev": {
+        "phpunit/phpunit": "10.0"
+    }
+}
